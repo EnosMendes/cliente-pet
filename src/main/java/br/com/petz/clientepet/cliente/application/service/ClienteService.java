@@ -5,5 +5,4 @@ import br.com.petz.clientepet.cliente.application.api.ClienteResquest;
 
 public interface ClienteService {
 	ClienteResponse criaCliente(ClienteResquest clienteRequest);
-
 }
